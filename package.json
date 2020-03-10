@@ -46,7 +46,7 @@
   "devDependencies": {
     "eslint": "^5.10.0"
   },
-  "dependencies": {
+  "peerDependencies": {
     "node-pty": "^0.9.0",
     "term.js": "0.0.7"
   }
